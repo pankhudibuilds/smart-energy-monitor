@@ -1,6 +1,7 @@
 # Smart Energy Monitoring System (Simulation)
 
-🔗 [View Live Simulation in Tinkercad](https://www.tinkercad.com/things/lW7OXP4AqxF)
+🔗 [View Live Simulation in Tinkercad]
+(https://www.tinkercad.com/things/lW7OXP4AqxF)
 
 This project simulates a basic energy monitoring system using Arduino and a potentiometer to mimic the behavior of an ACS712 current sensor.
 
@@ -24,7 +25,8 @@ This project simulates a basic energy monitoring system using Arduino and a pote
 ---
 
 ## 📷 Simulation Screenshot
-![Circuit](simulation_screenshot.png)
+![Circuit]
+(simulation_screenshot.png)
 
 ---
 
