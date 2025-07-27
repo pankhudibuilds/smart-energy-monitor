@@ -26,7 +26,7 @@ This project simulates a basic energy monitoring system using Arduino and a pote
 
 ## 📷 Simulation Screenshot
 ![Circuit]
-(simulation_screenshot.png)
+(simulation_screenshot.png.png)
 
 ---
 
