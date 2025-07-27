@@ -23,6 +23,18 @@ This project simulates a basic energy monitoring system using Arduino and a pote
 - Displays real-time current and power values on the Serial Monitor
 
 ---
+> ⚡ **Note:**  
+> In place of actual current or voltage sensors, a potentiometer is used to simulate varying analog signals.  
+> This makes the project ideal for learning and testing logic without needing high-voltage components or specialized sensors.
+
+---
+## How to run
+
+1. Open `energy_monitor.ino` in the Arduino IDE.
+2. Connect components as shown in Tinkercad.
+3. Upload the code to Arduino.
+4. Open the Serial Monitor to view readings.
+
 
 ## 📷 Simulation Screenshot
 ![Circuit](simulation_screenshot.png.png)
